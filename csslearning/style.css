@@ -1,0 +1,16 @@
+body{background-color: grey;}
+h1{color: aqua;
+font-family: "press start 2p";
+font-style: italic;
+font-weight: 800;
+}
+p{background-color: aqua;
+color: black;
+}
+
+#p1{color: blueviolet;}
+
+.odd{color: red;}
+
+.even{color: blueviolet;
+font-family:'Times New Roman', Times, serif ;}
